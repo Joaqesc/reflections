@@ -2,3 +2,16 @@ What happens when you initialize a repository? Why do you need to do it?
 
 To track changes with git
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is a middle point between the wd and repository it makes in easier 
+to commit multiple files and make commits more meaningful 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+In the staging area you can add all the related files to the change made and do a single 
+commit that includes all pertinents files to de change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are useful to experiment with new features without breaking the working or current version of the code
